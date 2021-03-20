@@ -150,6 +150,7 @@ void Song(FILE* outFile, node_t* head){
         exit(0);
     }
     printBorder(outFile);
+    fputs("\nSONG\n", outFile);
     struct node_t * iterateNode = head;
     //loops through all nodes in linked list
     while(iterateNode != NULL){
