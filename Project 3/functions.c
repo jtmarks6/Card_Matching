@@ -90,7 +90,7 @@ void PrintList(FILE* outFile, node_t* head){
         exit(0);
     }
     printBorder(outFile);
-    fputs("\nLIST INFO:\n", outFile);
+    fputs("LIST INFO:\n", outFile);
     struct node_t * iterateNode = head;
     //loops through all nodes in linked list
     while(iterateNode != NULL){
@@ -111,7 +111,7 @@ void PrintName(FILE* outFile, node_t* head){
         exit(0);
     }
     printBorder(outFile);
-    fputs("\nNAMES:\n", outFile);
+    fputs("NAMES:\n", outFile);
     struct node_t * iterateNode = head;
     //loops through all nodes in linked list
     while(iterateNode != NULL){
@@ -130,7 +130,7 @@ void PrintBDay(FILE* outFile, node_t* head){
         exit(0);
     }
     printBorder(outFile);
-    fputs("\nBIRTHDAY:\n", outFile);
+    fputs("BIRTHDAY:\n", outFile);
     struct node_t * iterateNode = head;
     //loops through all nodes in linked list
     while(iterateNode != NULL){
@@ -150,7 +150,7 @@ void Song(FILE* outFile, node_t* head){
         exit(0);
     }
     printBorder(outFile);
-    fputs("\nSONG:\n", outFile);
+    fputs("SONG:\n", outFile);
     struct node_t * iterateNode = head;
     //loops through all nodes in linked list
     while(iterateNode != NULL){
@@ -165,6 +165,7 @@ void printBorder(FILE* outFile){
     for(int i=0; i<80; i++){
         fputc('*', outFile);
     }
+    fputs("\n", outFile);
 }
 
 //uses function pointer to call a print function
