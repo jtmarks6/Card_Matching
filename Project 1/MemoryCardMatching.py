@@ -10,7 +10,7 @@ from numpy import *
 addition = 84
 blackThresh = 50 #changes as matches are missed, moves threshold down until all cards are matched
 majorityBlack = 4000
-blankTopThresh= 600
+blankTopThresh = 600
 blankBottomThresh = 300
 clearPicThreshHold = 35
 
