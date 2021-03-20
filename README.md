@@ -1,5 +1,5 @@
 ﻿# Resume_Code
-Coding examples in python and c
+Coding examples in Python and C
 
 ## Project 1
 ### Memory Card Matching Game in Python
