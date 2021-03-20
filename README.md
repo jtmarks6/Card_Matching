@@ -29,6 +29,6 @@ In this project I did the following:
 - Used Enum to store the birthday month information
 - Used double and single pointers to pass in the linked list
 - Print out the information in the linked list in different formats
-- Returned all dynamically allocated memory to system from linked list
+- Returned all dynamically allocated memory from the linked list to the system
 
 Also note the input file was changed to not reveal other students information, originally it had the information from all the students in my teacher's classes.
