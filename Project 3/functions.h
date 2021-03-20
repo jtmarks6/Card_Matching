@@ -1,8 +1,8 @@
 /******************************
 *Jeremy Marks                 *
-*CPSC 2310 Spring 21          *
-*UserName: jtmarks            *
-*Instructor: Dr. Yvon Feaster *
+*Class: -- Spring 21          *
+*UserName: -------            *
+*Instructor: ---------------- *
 ******************************/
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
