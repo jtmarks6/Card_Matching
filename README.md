@@ -11,8 +11,7 @@ I created this bot to play a memory card matching game within the game Wizard 10
 - Clicks the correct cards
 - Ends whenever the target score has been reached
 
-Link to Video:
-[![Matching Cards Project Video](https://img.youtube.com/vi/x-rsuEe78tM/maxresdefault.jpg)](https://www.youtube.com/watch?v=x-rsuEe78tM)
+[Link to Video Showing Bot Play the Game](https://www.youtube.com/watch?v=x-rsuEe78tM)
 
 ## Project 2
 ### Stock trading Bot in Python
