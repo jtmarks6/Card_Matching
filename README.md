@@ -31,5 +31,5 @@ In this project I did the following:
 - Print out the information in the linked list in different formats
 - Returned all allocated memory to system from linked list
 
-Also note the input file was changed to not reveal other students information, originally it had all the students in all my teacher's classes information in the format
+Also note the input file was changed to not reveal other students information, originally it had the students in all my teacher's classes information in the format
 shown in the input file with my information.
