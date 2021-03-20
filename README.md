@@ -30,3 +30,6 @@ In this project I did the following:
 - Used double and single pointers to pass in the linked list
 - Print out the information in the linked list in different formats
 - Returned all allocated memory to system from linked list
+
+Also note the input file was changed to not reveal other students information, originally it had all the students in all my teachers classes information in the format
+show in the input file with my information
