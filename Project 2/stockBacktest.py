@@ -15,10 +15,6 @@ base_url = 'https://paper-api.alpaca.markets'
 #connects to api
 api = tradeapi.REST(api_key, api_secret, base_url, api_version='v2')
 
-#variables for dates
-monthDays = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-monthName = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-
 #calculates rsi from csv and makes a stockrsi.csv file
 def calcRSIforCSV(stock):
     readFile = pd.read_csv(stock+'.csv', sep=",") #Reads CSV
