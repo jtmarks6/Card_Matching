@@ -67,6 +67,8 @@ def checkCSVBuySell(stock):
     resultFile.close()
     return totalProfit
 
+#Only tests AMD stock for showing here, but originally I tests a very large list of stocks
+
 #created stockrsi.csv
 calcRSIforCSV('AMD')
 #reads stockrsi.csv and calculates what profit would have been with strategy
