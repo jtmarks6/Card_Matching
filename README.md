@@ -1,4 +1,3 @@
-﻿# IN PROGRESS
  # Resume_Code
 Coding examples in Python and C
 
