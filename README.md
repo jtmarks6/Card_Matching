@@ -17,7 +17,7 @@ I created this bot to play a memory card matching game within the game Wizard 10
 ### Stock trading Bot in Python
 This project is a bot I made to do the following:
 - Get historical data on many stocks
-- Store the data in my mySQL database
+- Store the data in my mySQL database or CSV file
 - Analyze the data with different strategies to compare profits
 - Trades stocks real time with a strategy
 
