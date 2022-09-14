@@ -1,5 +1,0 @@
-Marks,Jeremy,3,6,2001,Ocean Man by Ween
-
-The input file was in this format:
-Last Name, First Name, birth month, birth day, birth year, favorite song
-This file did contain all of the students in my class, but I didn't want to include anyone else information
