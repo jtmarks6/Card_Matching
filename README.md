@@ -1,7 +1,3 @@
- # Resume_Code
-Coding examples in Python and C
-
-## Project 1
 ### Memory Card Matching Game in Python
 I created this bot to play a memory card matching game within the game Wizard 101. This project does the following:
 - Analyze the pixels on the screen to determine where cards are
